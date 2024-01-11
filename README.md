@@ -1,1 +1,7 @@
 # City-Collections
+
+Name: Christopher Hernandez
+Course: 2805C
+CRN: 12672
+
+This programming project that I've done in the class before as a final programming project of the previous fall semester in the year 2022 is a collections assignment where I put in a collection of 5 different cities that are known into the program. The project does is list cities that are listed in in the code and outputs them in orders. Important programming concepts and tools employed in the assignment is to have an ArrayList of 6 different names of cities added in and to use a for loop string to have an output of print lines that have a collections command to shuffle listed cities randomly in one line and sort out the cities in alphabetical order in the other line, but one of the lines is about listing a city that exists as a number and the other line is to list a city that doesn't exist as a number. Another important tool is the string command used to convert arraylist to an array and vice versa. The expected inputs and outputs of the program is that when running the code the cities don't need to be typed in, but rather the result will automatically output itself where you have cities being outputted randomly in one line and the other line outputting cities in alphabetical order, as well as having a result of the number 4 for a city that did exist and a -1 for a city that doesn't exist in the list, and the cities being listed in an ArrayList to array and vice versa where the program ran smoothly and no issues at all.
